@@ -1,4 +1,4 @@
-# <img src="https://i.pinimg.com/originals/04/58/97/045897378f83762064bf5618e519cf90.png" width="60"> Epeuve de l'air
+# <img src="http://cdn.onlinewebfonts.com/svg/img_541887.png" width="60"> Epeuve de l'air
 
 Problem solving de 12 exercices en python. Pour jouer avec les Args et index
 
